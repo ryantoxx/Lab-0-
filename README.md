@@ -6,6 +6,7 @@ Ubuntu 22.04 LTS
 
 2.Installing the required packages.
 Zsh installation + setting default:
+
 ![image](https://user-images.githubusercontent.com/114425150/194232163-d082204e-0af3-41f0-a418-27b691b81b97.png)
 
 Zsh default shell:
