@@ -1,4 +1,4 @@
-#Lab 0, Chihai Nichita FAF-213                                                                                                  
+Lab 0, Chihai Nichita FAF-213                                                                                                  
 1.Operating System:
 Ubuntu 22.04 LTS
 
